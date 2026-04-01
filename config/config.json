@@ -1,0 +1,15 @@
+{
+  "board_size": 15,
+  "num_simulations": 100,
+  "temp": 1.0,
+  "num_games": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "epochs": 10,
+  "num_filters": 256,
+  "num_res_blocks": 10,
+  "train_ratio": 0.8,
+  "data_dir": "data",
+  "model_dir": "models",
+  "log_dir": "logs"
+}
